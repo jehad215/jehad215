@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jehad Musa
+<!-- ### Hi there 👋, I'm Jehad Musa -->
 
 <!--
 **jehad215/jehad215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>🌱 I’m currently learning DevOps<br>
+<h1 align="center"><b> Hello, I’m Jehad Musa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&background=FF000000&width=600&lines=Happy+to+see+you+in+my+account;" alt="Typing SVG" /></a>
+</p>
+- 🌱 I’m currently learning about DevOps tools
+<br>
 
 
 
