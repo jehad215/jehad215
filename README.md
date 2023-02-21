@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-## 🌐 If you have any questions don’t hesitate to contact me on:
+## If you have any questions don’t hesitate to contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jehad-musa/) 
 
 # 💻 Languages and Tools:
